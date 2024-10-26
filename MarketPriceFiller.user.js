@@ -4,6 +4,8 @@
 // @version      1.4
 // @description  Automatically fill quantity and price fields with Torn API data
 // @author       Dexterity [3131335]
+// @updateURL    https://github.com/Gonave3131335/TornMarketFiller/raw/main/MarketPriceFiller.user.js
+// @downloadURL  https://github.com/Gonave3131335/TornMarketFiller/raw/main/MarketPriceFiller.user.js
 // @match        https://www.torn.com/page.php?sid=ItemMarket*
 // @run-at       document-start
 // @grant        none
